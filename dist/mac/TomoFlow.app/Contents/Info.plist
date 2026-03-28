@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>TomoFlow</string>
+	<key>CFBundleExecutable</key>
+	<string>TomoFlow</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-ab25a6e1e6730d3f51a7c39af74c886bfd5f02950d84b19a4ea8003c26347f44.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.furkanakman.tomoflow</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>TomoFlow</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
