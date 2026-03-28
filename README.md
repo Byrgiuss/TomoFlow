@@ -32,10 +32,10 @@ It is designed for fan-translation workflows where readability and panel context
 ## Visual Workflow
 ```mermaid
 flowchart LR
-  A[Input Folder<br/>PNG/JPG/WEBP pages] --> B[Page-by-page API calls]
-  B --> C[Panel detection/order mapping<br/>RTL + top-to-bottom]
-  C --> D[Translations in selected language(s)]
-  D --> E[Single output file<br/>HTML or PDF]
+  A["Input Folder<br/>PNG/JPG/WEBP pages"] --> B["Page-by-page API calls"]
+  B --> C["Panel detection/order mapping<br/>RTL + top-to-bottom"]
+  C --> D["Translations in selected languages"]
+  D --> E["Single output file<br/>HTML or PDF"]
 ```
 
 ## Repository Structure
