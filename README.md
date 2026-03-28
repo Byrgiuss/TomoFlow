@@ -16,6 +16,9 @@ TomoFlow translates Japanese manga page images panel-by-panel, preserves manga r
 
 It is designed for fan-translation workflows where readability and panel context matter.
 
+## Sample Output
+![TomoFlow Sample Translation Output](assets/sample_screenshot.png)
+
 ## Key Features
 - Sequential page processing (stable chapter order)
 - Panel-level extraction and structured output
@@ -43,7 +46,8 @@ flowchart LR
 TomoFlow_GitHub_Ready/
 ├── assets/
 │   ├── TomoFlowLogo.png
-│   └── TomoFlowLogo.ico
+│   ├── TomoFlowLogo.ico
+│   └── sample_screenshot.png
 ├── dist/
 │   ├── mac/
 │   │   └── TomoFlow.app
